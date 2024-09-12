@@ -5,12 +5,12 @@
 Взял репозиторий - Tihon
 ## Загрузка исходного кода
 ```
-> git init
-> git add README.md
-> git commit -m "first commit"
-> git brance -M main
-> git remote add origin https://github.com/Tihon06/Tihon.git
-> git push - u origin main
+ git init
+ git add README.md
+ git commit -m "first commit"
+ git brance -M main
+ git remote add origin https://github.com/Tihon06/Tihon.git
+ git push - u origin main
 ```
 ## Описание возможности Git Hub
   Описание GitHub. GitHub — это «социальная сеть для разработчиков». Участникам, кроме непосредственного хранения кода, своих проектов, можно общаться, комментировать изменения друг друга, отслеживать новости знакомых. У программистов есть возможность объединять репозитории и выводить вклад участника в виде дерева.
